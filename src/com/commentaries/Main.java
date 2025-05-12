@@ -6,7 +6,7 @@ package com.commentaries;
  * Main class consists method to calculate average of four doubles and prints
  * the aoutput to console.
  *
- * @autor Julia Marushchenko
+ * @author Julia Marushchenko
  * @version 1.0
  * @since 2025-04-27
  */
